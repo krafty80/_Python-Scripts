@@ -1,7 +1,7 @@
 import os
 import zipfile
 
-source_folder = 'EU34_Reuploaded'  # Adjust your source folder path
+source_folder = '/Users/chrkraft/Downloads/EU33_Reuploaded'  # Adjust your source folder path
 
 # ANSI escape codes for colored text
 RED = '\033[91m'
